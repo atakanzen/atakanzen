@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hi!</h1>
-  <p align="center">I'm a software developer and I make things work.</p>
+  <p align="center">I'm a software developer and I make things that works.</p>
   <p align="center">If you want to learn more about me, feel free to visit <a href="https://zengin.me">zengin.me</a></p>
 </p>
 <p align="center">
