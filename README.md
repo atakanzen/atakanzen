@@ -4,7 +4,7 @@
   <p align="center">If you want to learn more about me, feel free to visit <a href="https://atakanzen.com">atakanzen.com</a> or contact me right away from <a href="mailto:atakanzzengin@gmail.com">here</a>.</p>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ataknz/">
+  <a href="https://www.linkedin.com/in/atakanzen/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ataknz/" />  
   </a> 
   <a href="https://twitter.com/atakanzen_/">
