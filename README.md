@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi!</h1>
+  <h1 align="center">Hi🤠</h1>
   <p align="center">I'm a Full Stack Software Engineer and I love to make things that works!</p>
   <p align="center">If you want to learn more about me, feel free to visit <a href="https://atakanzen.com">atakanzen.com</a> or contact me right away from <a href="mailto:atakanzzengin@gmail.com">here</a>.</p>
 </p>
