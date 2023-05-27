@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Contact</h4>
+<h4 align="center">Find me at</h4>
 
 ###
 
