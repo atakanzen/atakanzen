@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a Software Engineer who loves to help people by creating quality software to overcome their problems.</p>
+<p align="center">I'm a Software Engineer who loves to help people by creating quality software to overcome their problems.</p>
 
 <div align="center">
   <a href="https://linkedin.com/in/atakanzen" target="_blank">
